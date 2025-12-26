@@ -272,7 +272,7 @@ oraclex_app/
 ├── src/
 │   ├── __init__.py
 │   ├── models/                # Database models
-│   ├��─ routes/                # API routes and blueprints
+│   ├── routes/                # API routes and blueprints
 │   ├── services/              # Business logic
 │   ├── utils/                 # Utility functions
 │   └── middleware/            # Middleware components
